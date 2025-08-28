@@ -1,5 +1,9 @@
 ## Prosjektpresentasjon
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Lab Only](https://img.shields.io/badge/Scope-Lab%20Only-blue)
+
+
 **Kort fortalt:** Jeg analyserte en sårbar *vsftpd 2.3.4*-tjeneste i et lukket labmiljø, demonstrerte utnyttelse med Metasploit, og verifiserte kontroll ved å opprette og bruke en egen lab-bruker.
 
 ### Mål
