@@ -43,5 +43,17 @@ run
 - Reduser angrepsflate (steng ubrukte porter)
 - Patchrutiner, IDS/IPS-signaturer
 
+## Vedlegg (ekstra)
+
+**Metasploit – banner**
+![msfconsole banner](images/msfconsole-banner.png)
+
+**Metasploit – modulsøk etter vsftpd**
+![msf search vsftpd](images/msf-search-vsftpd.png)
+
+**Nmap – full scan**
+![Nmap full](images/nmap-ftp-version-large.png)
+
+
 ## Lisens
 MIT
